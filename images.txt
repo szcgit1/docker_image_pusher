@@ -5,3 +5,4 @@ redis:6.2.7
 portainer/portainer-ce
 nacos/nacos-server:v2.1.1
 nacos/nacos-server:v2.1.0
+gitlab/gitlab-ce
